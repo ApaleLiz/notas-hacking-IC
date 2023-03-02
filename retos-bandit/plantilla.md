@@ -1,9 +1,9 @@
 
 # Retos Bandit
-para documentar los retos 
+para documentar los retos bandit usaremos la siguiete plantilla
 # Level x
 ## Objetivo
-## DAtos de acceso al nivel
+## Datos de acceso al nivel
 ## Solución
 ## Notas adicionales
 
