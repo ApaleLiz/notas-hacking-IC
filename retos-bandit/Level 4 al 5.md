@@ -8,6 +8,7 @@ bandit4
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 ## Solución
+```
 bandit4@bandit:~$ ls
 inhere 
 bandit4@bandit:~$ cd inhere/ 
@@ -30,6 +31,7 @@ bandit4@bandit:~/inhere$ file ./-file00 ./-file00: data bandit4@bandit:~/inhere$
 ./-file08: data 
 ./-file09: data bandit4@bandit:~/inhere$ cat ./-file07 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR 
 bandit4@b
+```
 
 ## Notas adicionales
 

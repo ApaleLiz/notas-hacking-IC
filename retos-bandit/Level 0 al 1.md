@@ -8,14 +8,17 @@ bandit0
 bandit0
 
 ## Solución
+```
 bandit0@bandit:~$ ls
 readme bandit0@bandit:~$ cat readme NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL 
 bandit0@bandit:~$
-
+```
 ## Notas adicionales
 | comando | dscripción |
 |-----|-----|
 | cat | muestra el contenido de un archivo |
+
+
 
 ## Referencias
 - [Secure Shell (SSH) on Wikipedia](https://en.wikipedia.org/wiki/Secure Shell)

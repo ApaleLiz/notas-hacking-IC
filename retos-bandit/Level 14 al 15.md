@@ -8,7 +8,7 @@ bandit14
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 
 ## Solución
-
+```
 bandit14@bandit:~$ 
 bandit14@bandit:~$ nc localhost 30000 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq 
 Correct!
@@ -16,6 +16,7 @@ jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 
 ^C 
 bandit14@bandit:~$
+```
 
 ## Notas adicionales
 

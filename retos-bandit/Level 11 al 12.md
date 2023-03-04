@@ -8,6 +8,7 @@ bandit11
 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
 ## Solución
+```
 Forma 1
 bandit11@bandit:~$ ls 
 data.txt 
@@ -26,6 +27,7 @@ Type "help", "copyright", "credits" or "license" for more >>>information.
  codecs.decode('Gur cnffjbeq vf WIAOOSFzMjXXBC0KoSKBbJ8puQm5lIEi','rot13')
   'The password is JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv' 
   >>> bandit11@bandit:~$
+  ```
 
 ## Notas adicionales
 

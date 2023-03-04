@@ -8,6 +8,7 @@ bandit12
 JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
 ## Solución
+```
 Algunos tipos de compresion en Linux
 ext           comp      desc                                ver en consola
 .gz            gzip        gzip -d   (gunzip)             zcat 
@@ -18,6 +19,7 @@ otros (instalar) :
 .zip    zip     unzip (7z x)
 .rar    rar      unrar (7z x)
 
+```
 ## Notas adicionales
 
 | comando | descripción |

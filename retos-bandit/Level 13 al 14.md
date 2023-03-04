@@ -8,6 +8,7 @@ bandit13
 wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 ## Solución
+```
 bandit13@bandit:~$ ls
 sshkey.private 
 bandit13@bandit:~$ ssh -i sshkey.private bandit14@localhost -p 2220
@@ -24,7 +25,7 @@ Connection to localhost closed.
 bandit13@bandit:~$ exit 
 logout
 Connection to bandit.labs.overthewire.org closed.
-
+```
 ## Notas adicionales
 
 | comando | descripción |

@@ -8,6 +8,7 @@ bandit9
 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 ## Solución
+```
 bandit9@bandit:~$ ls
 data.txt 
 bandit9@bandit:~$ file data.txt 
@@ -17,6 +18,7 @@ c========== the
 h;========== password 
 ========== isT 
 n.E========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s bandit9@bandit:~$
+```
 
 ## Notas adicionales
 
