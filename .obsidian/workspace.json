@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3b2b7a0f8b1cf98",
+        "id": "1365c9ac46ded71a",
         "type": "tabs",
         "children": [
           {
-            "id": "bd66526aeeab0a3e",
+            "id": "b3988d9737c1a54c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Parcial/Exam1/2021/Magikap Ground Mission.md",
+                "file": "Primer Parcial/2021/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Parcial/Exam1/2021/Magikap Ground Mission.md",
+                "file": "Primer Parcial/2021/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Parcial/Exam1/2021/Magikap Ground Mission.md",
+                "file": "Primer Parcial/2021/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Parcial/Exam1/2021/Magikap Ground Mission.md"
+                "file": "Primer Parcial/2021/Scavenger Hunt.md"
               }
             }
           }
@@ -146,10 +146,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bd66526aeeab0a3e",
+  "active": "b3988d9737c1a54c",
   "lastOpenFiles": [
-    "Primer Parcial/Exam1/2021/Tab, Tab, Attack.md",
+    "Primer Parcial/2021/Cookies.md",
+    "Primer Parcial/2021/Scavenger Hunt.md",
+    "Primer Parcial/2021/GET aHEAD.md",
+    "Primer Parcial/2019/JaWT Scratchpad.md",
+    "Primer Parcial/2019/Untitled.md",
+    "Primer Parcial/2019/Irish-Name-Repo 3.md",
+    "Primer Parcial/2019/Irish-Name-Repo 2.md",
+    "Primer Parcial/2019/Irish-Name-Repo 1.md",
+    "Primer Parcial/2019/Client-side-again.md",
+    "Primer Parcial/2019/picobrowser.md",
+    "Primer Parcial/2019/Dont-use-client-side.md",
+    "Primer Parcial/2019/logon.md",
+    "Primer Parcial/2019/where are the robots.md",
+    "Primer Parcial/2019/Insp3ct0r.md",
+    "Primer Parcial/2021.md",
+    "Primer Parcial/2021",
+    "Primer Parcial/2019/Untitled",
+    "Primer Parcial/2019/02-Lets Warn Up.md",
     "Primer Parcial/Exam1/2021/Magikap Ground Mission.md",
+    "para subir archivos a opsidian.txt",
+    "Primer Parcial/Exam1/2021/Tab, Tab, Attack.md",
     "Primer Parcial/Exam1/2021/Static ain´t always noise.md",
     "Primer Parcial/Exam1/2019/Lets Warm Up.md",
     "Primer Parcial/Exam1/2019/2Warm.md",
@@ -159,24 +178,8 @@
     "Primer Parcial/Exam1/2021",
     "Primer Parcial/Exam1/2019/Based.md",
     "Primer Parcial/Exam1/2019/plumbing.md",
-    "Primer Parcial/Exam1/2019/First Grep.md",
-    "Primer Parcial/Exam1/2019/Bases.md",
-    "Primer Parcial/Exam1/2019/Warmed Up.md",
-    "Primer Parcial/Exam1/2019/Whats a net cat.md",
-    "Primer Parcial/Exam1/2019/Strings it.md",
-    "Primer Parcial/2019/05-strings it.md",
-    "Primer Parcial/2019/04-what's a net cat.md",
-    "Primer Parcial/2019/03-2Warm.md",
-    "Primer Parcial/2019/02-Lets Warn Up.md",
-    "Primer Parcial/2019/01-Lets Warn Up.md",
     "Primer Parcial/Exam1/2019",
     "Primer Parcial/Exam1",
-    "Primer Parcial/2019/picobrowser.md",
-    "Primer Parcial/2019/logon.md",
-    "Primer Parcial/2019/where are the robots.md",
-    "Primer Parcial/2019/Client-side-again.md",
-    "Primer Parcial/2019/Dont-use-client-side.md",
-    "Primer Parcial/2019/Insp3ct0r.md",
     "retos-bandit/Untitled",
     "Primer Parcial/2019",
     "Primer Parcial",

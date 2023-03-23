@@ -1,0 +1,5 @@
+Entramos a la carpeta NOTAS-RETOS-IC
+git add .
+git commit -m "examen"
+git push
+ 
