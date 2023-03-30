@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bfcffa7981119d87",
+        "id": "dd4341dea9d1ead1",
         "type": "tabs",
         "children": [
           {
-            "id": "e16212c1715a24fd",
+            "id": "e5e86c71d22ac463",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Primer Parcial/pico-2019/Glory of the Garden.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Primer Parcial/pico-2019/Glory of the Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Primer Parcial/pico-2019/Glory of the Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Primer Parcial/pico-2019/Glory of the Garden.md"
+              }
             }
           }
         ]
@@ -138,8 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e16212c1715a24fd",
+  "active": "e5e86c71d22ac463",
   "lastOpenFiles": [
+    "Primer Parcial/pico-2019/Glory of the Garden.md",
+    "Primer Parcial/pico-2019",
+    "Concurso/2-repetitions.md",
     "Concurso/14-Timer.md",
     "Concurso/13-Safe Opener2.md",
     "Concurso/12-ReadMyCert.md",
@@ -152,7 +163,6 @@
     "Concurso/5-Permissions.md",
     "Concurso/3-Rules 2023.md",
     "Concurso/4-chrono.md",
-    "Concurso/2-repetitions.md",
     "Concurso/1-Money-ware.md",
     "Primer Parcial/Exam1/2022/fixme2.py.md",
     "Concurso",
@@ -168,14 +178,12 @@
     "README.md",
     "Primer Parcial/Exam1/2022/runme.py",
     "Primer Parcial/Exam1/2022",
-    "Primer Parcial/2021/Cookies.md",
     "Primer Parcial/2021",
     "Primer Parcial/2019/Untitled",
     "para subir archivos a opsidian.txt",
     "Primer Parcial/Exam1/2021",
     "Primer Parcial/Exam1/2019",
     "Primer Parcial/Exam1",
-    "retos-bandit/Untitled",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
