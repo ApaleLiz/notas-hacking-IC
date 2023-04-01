@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f76b4ba42c96a47a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Parcial/pico-2021/reto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Parcial/pico-2019/Glory of the Garden.md",
+                "file": "Primer Parcial/pico-2021/reto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Parcial/pico-2019/Glory of the Garden.md",
+                "file": "Primer Parcial/pico-2021/reto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Parcial/pico-2019/Glory of the Garden.md"
+                "file": "Primer Parcial/pico-2021/reto.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e5e86c71d22ac463",
+  "active": "570c8b255661bc79",
   "lastOpenFiles": [
     "Primer Parcial/pico-2019/Glory of the Garden.md",
+    "Primer Parcial/pico-2021/reto.md",
+    "Primer Parcial/pico-2021",
     "Primer Parcial/pico-2019",
     "Concurso/2-repetitions.md",
     "Concurso/14-Timer.md",
@@ -175,7 +190,6 @@
     "Primer Parcial/Exam1/2022/PW Crack 1.md",
     "Primer Parcial/Exam1/2022/Glitch Cat.md",
     "Primer Parcial/2021/Scavenger Hunt.md",
-    "README.md",
     "Primer Parcial/Exam1/2022/runme.py",
     "Primer Parcial/Exam1/2022",
     "Primer Parcial/2021",
@@ -183,7 +197,6 @@
     "para subir archivos a opsidian.txt",
     "Primer Parcial/Exam1/2021",
     "Primer Parcial/Exam1/2019",
-    "Primer Parcial/Exam1",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
