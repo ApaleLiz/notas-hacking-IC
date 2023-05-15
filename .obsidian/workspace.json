@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dd4341dea9d1ead1",
+        "id": "7c1232f2da7ed047",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e86c71d22ac463",
+            "id": "19c7b925f8eef0de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Parcial/pico-2019/Glory of the Garden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f76b4ba42c96a47a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Parcial/pico-2021/reto.md",
+                "file": "Segundo Parcial/Wireshark do do do...md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Parcial/pico-2021/reto.md",
+                "file": "Segundo Parcial/Wireshark do do do...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Parcial/pico-2021/reto.md",
+                "file": "Segundo Parcial/Wireshark do do do...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Parcial/pico-2021/reto.md"
+                "file": "Segundo Parcial/Wireshark do do do...md"
               }
             }
           }
@@ -159,10 +146,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "570c8b255661bc79",
+  "active": "19c7b925f8eef0de",
   "lastOpenFiles": [
-    "Primer Parcial/pico-2019/Glory of the Garden.md",
+    "Segundo Parcial/St3g0...md",
+    "Segundo Parcial/Secrets.md",
+    "Segundo Parcial/Search Source.md",
+    "Segundo Parcial/Roboto Sans.md",
+    "Segundo Parcial/Redaction wone gron.md",
+    "Segundo Parcial/Power Cookie.md",
+    "Segundo Parcial/Packets Primer.md",
+    "Segundo Parcial/Lookey Here.md",
+    "Segundo Parcial/Local Authority.md",
+    "Segundo Parcial/Inspect HTML.md",
+    "Segundo Parcial/information.md",
+    "Segundo Parcial/Includes.md",
+    "Segundo Parcial/Forbidden Paths.md",
+    "Segundo Parcial/Enhance!.md",
+    "Segundo Parcial/Wireshark do do do...md",
     "Primer Parcial/pico-2021/reto.md",
+    "Primer Parcial/pico-2019/Glory of the Garden.md",
+    "Primer Parcial/2019/01-Lets Warn Up.md",
+    "Segundo Parcial",
     "Primer Parcial/pico-2021",
     "Primer Parcial/pico-2019",
     "Concurso/2-repetitions.md",
@@ -173,30 +177,13 @@
     "Concurso/10-reversing.md",
     "Concurso/9-rotation.md",
     "Concurso/8-MatchTheRegex.md",
-    "Concurso/7-Special.md",
-    "Concurso/6-useless.md",
-    "Concurso/5-Permissions.md",
-    "Concurso/3-Rules 2023.md",
-    "Concurso/4-chrono.md",
-    "Concurso/1-Money-ware.md",
-    "Primer Parcial/Exam1/2022/fixme2.py.md",
     "Concurso",
-    "Primer Parcial/Exam1/2022/fixme1.py.md",
-    "Primer Parcial/Exam1/2022/Codeboo.md",
-    "Primer Parcial/Exam1/2022/convertme.py.md",
-    "Primer Parcial/Exam1/2022/runme.py.md",
-    "Primer Parcial/Exam1/2022/PW Crack 3.md",
-    "Primer Parcial/Exam1/2022/PW Crack 2.md",
-    "Primer Parcial/Exam1/2022/PW Crack 1.md",
-    "Primer Parcial/Exam1/2022/Glitch Cat.md",
-    "Primer Parcial/2021/Scavenger Hunt.md",
     "Primer Parcial/Exam1/2022/runme.py",
     "Primer Parcial/Exam1/2022",
     "Primer Parcial/2021",
     "Primer Parcial/2019/Untitled",
     "para subir archivos a opsidian.txt",
     "Primer Parcial/Exam1/2021",
-    "Primer Parcial/Exam1/2019",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
