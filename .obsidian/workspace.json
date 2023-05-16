@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7c1232f2da7ed047",
+        "id": "b6d47b4daa43d319",
         "type": "tabs",
         "children": [
           {
-            "id": "19c7b925f8eef0de",
+            "id": "30ed1374afce0132",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Parcial/Wireshark do do do...md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c202ccfc1ff39b97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Parcial/Wireshark do do do...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Parcial/Wireshark do do do...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Segundo Parcial/Wireshark do do do...md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +146,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "19c7b925f8eef0de",
+  "active": "30ed1374afce0132",
   "lastOpenFiles": [
+    "Segundo Parcial/Actividad 17/buffer overflow 1.md",
+    "Segundo Parcial/Actividad 17/buffer overflow 0.md",
+    "Segundo Parcial/Actividad 17/basic-file-exploit.md",
+    "Segundo Parcial/Enhance!.md",
+    "Segundo Parcial/Actividad 17",
+    "Segundo Parcial/Wireshark do do do...md",
     "Segundo Parcial/St3g0...md",
     "Segundo Parcial/Secrets.md",
     "Segundo Parcial/Search Source.md",
@@ -161,8 +167,6 @@
     "Segundo Parcial/information.md",
     "Segundo Parcial/Includes.md",
     "Segundo Parcial/Forbidden Paths.md",
-    "Segundo Parcial/Enhance!.md",
-    "Segundo Parcial/Wireshark do do do...md",
     "Primer Parcial/pico-2021/reto.md",
     "Primer Parcial/pico-2019/Glory of the Garden.md",
     "Primer Parcial/2019/01-Lets Warn Up.md",
@@ -174,16 +178,12 @@
     "Concurso/13-Safe Opener2.md",
     "Concurso/12-ReadMyCert.md",
     "Concurso/11-two sum.md",
-    "Concurso/10-reversing.md",
-    "Concurso/9-rotation.md",
-    "Concurso/8-MatchTheRegex.md",
     "Concurso",
     "Primer Parcial/Exam1/2022/runme.py",
     "Primer Parcial/Exam1/2022",
     "Primer Parcial/2021",
     "Primer Parcial/2019/Untitled",
     "para subir archivos a opsidian.txt",
-    "Primer Parcial/Exam1/2021",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
