@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cb999eb3d78bd119",
+        "id": "048a18d9b1d872b0",
         "type": "tabs",
         "children": [
           {
-            "id": "4f770fcf43e14e20",
+            "id": "fc52362f1728cc1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Parcial/Actividad 12/b00tl3gRSA2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Parcial/Actividad 12/b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Parcial/Actividad 12/b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Segundo Parcial/Actividad 12/b00tl3gRSA2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,10 +146,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4f770fcf43e14e20",
+  "active": "fc52362f1728cc1f",
   "lastOpenFiles": [
+    "Segundo Parcial/Actividad 13/ReadMyCert.md",
+    "Segundo Parcial/Actividad 13/HideToSee.md",
+    "Segundo Parcial/Actividad 13/basic.md",
+    "Segundo Parcial/Actividad 13/Pixelated.md",
+    "Segundo Parcial/Actividad 13/Mind your Ps and Qs.md",
     "Segundo Parcial/Enhance!.md",
     "Segundo Parcial/Actividad 12/b00tl3gRSA2.md",
+    "Segundo Parcial/Actividad 13",
     "Segundo Parcial/Actividad 12/miniRSA.md",
     "Segundo Parcial/Actividad 12/rsa pop quiz.md",
     "Segundo Parcial/Actividad 12",
@@ -180,18 +178,12 @@
     "Segundo Parcial/Roboto Sans.md",
     "Segundo Parcial/Redaction wone gron.md",
     "Segundo Parcial/Power Cookie.md",
-    "Segundo Parcial/Packets Primer.md",
-    "Segundo Parcial/Lookey Here.md",
-    "Segundo Parcial/Local Authority.md",
-    "Segundo Parcial/Inspect HTML.md",
-    "Segundo Parcial/information.md",
     "Segundo Parcial",
     "Primer Parcial/pico-2021",
     "Primer Parcial/pico-2019",
     "Concurso",
     "Primer Parcial/Exam1/2022/runme.py",
     "Primer Parcial/Exam1/2022",
-    "Primer Parcial/2021",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
