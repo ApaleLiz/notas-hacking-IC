@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "62b44332e299a251",
+        "id": "cb999eb3d78bd119",
         "type": "tabs",
         "children": [
           {
-            "id": "36edeb9a514ac91f",
+            "id": "4f770fcf43e14e20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Parcial/Actividad 12/b00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Segundo Parcial/Actividad 12/b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Segundo Parcial/Actividad 12/b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Segundo Parcial/Actividad 12/b00tl3gRSA2.md"
+              }
             }
           }
         ]
@@ -146,8 +154,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "36edeb9a514ac91f",
+  "active": "4f770fcf43e14e20",
   "lastOpenFiles": [
+    "Segundo Parcial/Enhance!.md",
+    "Segundo Parcial/Actividad 12/b00tl3gRSA2.md",
+    "Segundo Parcial/Actividad 12/miniRSA.md",
+    "Segundo Parcial/Actividad 12/rsa pop quiz.md",
+    "Segundo Parcial/Actividad 12",
     "Segundo Parcial/Actividad 11/waves over lambada.md",
     "Segundo Parcial/Actividad 11/Tapping.md",
     "Segundo Parcial/Actividad 11/la cifra de.md",
@@ -155,7 +168,6 @@
     "Segundo Parcial/Actividad 11/13.md",
     "Segundo Parcial/Actividad 11/The Numbers.md",
     "Segundo Parcial/Actividad 11/Easy1.md",
-    "Segundo Parcial/Enhance!.md",
     "Segundo Parcial/Actividad 11",
     "Segundo Parcial/Actividad 17/buffer overflow 1.md",
     "Segundo Parcial/Actividad 17/buffer overflow 0.md",
@@ -173,9 +185,6 @@
     "Segundo Parcial/Local Authority.md",
     "Segundo Parcial/Inspect HTML.md",
     "Segundo Parcial/information.md",
-    "Segundo Parcial/Includes.md",
-    "Segundo Parcial/Forbidden Paths.md",
-    "Primer Parcial/pico-2021/reto.md",
     "Segundo Parcial",
     "Primer Parcial/pico-2021",
     "Primer Parcial/pico-2019",
@@ -183,7 +192,6 @@
     "Primer Parcial/Exam1/2022/runme.py",
     "Primer Parcial/Exam1/2022",
     "Primer Parcial/2021",
-    "Primer Parcial/2019/Untitled",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
