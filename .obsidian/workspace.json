@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "048a18d9b1d872b0",
+        "id": "86353232b43284fd",
         "type": "tabs",
         "children": [
           {
-            "id": "fc52362f1728cc1f",
+            "id": "6a5072cd7f7d6498",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,14 +146,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fc52362f1728cc1f",
+  "active": "6a5072cd7f7d6498",
   "lastOpenFiles": [
+    "Segundo Parcial/Actividad 14/vault-door-4.md",
+    "Segundo Parcial/Actividad 14/vault-door-3.md",
+    "Segundo Parcial/Actividad 14/vault-door-1.md",
+    "Segundo Parcial/Actividad 14/vault-door-training.md",
+    "Segundo Parcial/Enhance!.md",
+    "Segundo Parcial/Actividad 14",
     "Segundo Parcial/Actividad 13/ReadMyCert.md",
     "Segundo Parcial/Actividad 13/HideToSee.md",
     "Segundo Parcial/Actividad 13/basic.md",
     "Segundo Parcial/Actividad 13/Pixelated.md",
     "Segundo Parcial/Actividad 13/Mind your Ps and Qs.md",
-    "Segundo Parcial/Enhance!.md",
     "Segundo Parcial/Actividad 12/b00tl3gRSA2.md",
     "Segundo Parcial/Actividad 13",
     "Segundo Parcial/Actividad 12/miniRSA.md",
@@ -174,16 +179,11 @@
     "Segundo Parcial/Wireshark do do do...md",
     "Segundo Parcial/St3g0...md",
     "Segundo Parcial/Secrets.md",
-    "Segundo Parcial/Search Source.md",
-    "Segundo Parcial/Roboto Sans.md",
-    "Segundo Parcial/Redaction wone gron.md",
-    "Segundo Parcial/Power Cookie.md",
     "Segundo Parcial",
     "Primer Parcial/pico-2021",
     "Primer Parcial/pico-2019",
     "Concurso",
     "Primer Parcial/Exam1/2022/runme.py",
-    "Primer Parcial/Exam1/2022",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
