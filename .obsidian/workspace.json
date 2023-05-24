@@ -11,8 +11,12 @@
             "id": "1ce478edb79e94d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 32 al 33.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "retos-bandit/Level 32 al 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "retos-bandit/Level 32 al 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "retos-bandit/Level 32 al 33.md"
+              }
             }
           }
         ]
@@ -148,6 +156,12 @@
   },
   "active": "1ce478edb79e94d1",
   "lastOpenFiles": [
+    "retos-bandit/Level 31 al 32.md",
+    "retos-bandit/Level 32 al 33.md",
+    "retos-bandit/Level 30 al 31.md",
+    "retos-bandit/Level 29 al 30.md",
+    "retos-bandit/Level 28 al 29.md",
+    "retos-bandit/plantilla.md",
     "Tercer Parcial/Binary Explotation/two-sum.md",
     "Tercer Parcial/Binary Explotation/Local Target.md",
     "Tercer Parcial/Binary Explotation/Picker IV.md",
@@ -172,14 +186,8 @@
     "Ter.md",
     "Segundo Parcial/Actividad 18/Stonks.md",
     "Segundo Parcial/Actividad 18/flag leak.md",
-    "Segundo Parcial/Actividad 16/Safe Opener 2.md",
     "Segundo Parcial/Actividad 18",
-    "Segundo Parcial/Actividad 16/reverse_cipher.md",
-    "Segundo Parcial/Actividad 16/Need For Speed.md",
-    "Segundo Parcial/Actividad 16/GDB Test Drive.md",
     "Segundo Parcial/Actividad 16",
-    "Segundo Parcial/Actividad 15/asm3.md",
-    "Segundo Parcial/Actividad 15/asm2.md",
     "Segundo Parcial/Actividad 15",
     "Segundo Parcial/Actividad 14",
     "Segundo Parcial/Actividad 13",
